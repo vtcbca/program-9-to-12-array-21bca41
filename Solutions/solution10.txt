@@ -1,4 +1,4 @@
-/*write a program to perfrom the bubble short on array of 10 numeric value*/
+//write a program to perfrom the bubble short on array of 10 numeric value
 #include<stdio.h>
 #include<conio.h>
 void main()
